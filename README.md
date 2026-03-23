@@ -1,4 +1,4 @@
-# ChocolateFactory.exe - Detailed Technical Writeup
+# Willy Wonka's Chocolate Factory Lab
 
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/67274fa0-66e0-4832-9a82-4b29938681b1" />
 
